@@ -35,3 +35,13 @@ YouTube
 </tr>
 
 </table>
+
+# About:
+
+In this project, I converted a [Figma Design](https://www.figma.com/community/file/1258689995235847502) to React native Application using [Locofy](https://www.locofy.ai/).
+
+# Design:
+
+<img src="./Media/images/Home.png" />
+<img src="./Media/images/This.png" />
+<img src="./Media/images/That.png" />
