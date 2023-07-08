@@ -9,13 +9,6 @@ const Home = () => {
 
   return (
     <View style={[styles.home, styles.homeFlexBox]}>
-      <View style={[styles.appbar, styles.appbarFlexBox]}>
-        <Image
-          style={styles.vectorIcon}
-          resizeMode="cover"
-          source={require("../assets/vector.png")}
-        />
-      </View>
       <View style={[styles.buttonParent, styles.appbarFlexBox]}>
         <Pressable
           style={[styles.button, styles.buttonFlexBox]}

@@ -8,13 +8,6 @@ const This = () => {
 
   return (
     <View style={[styles.this, styles.thisFlexBox]}>
-      <View style={styles.appbar}>
-        <Image
-          style={styles.vectorIcon}
-          resizeMode="cover"
-          source={require("../assets/vector.png")}
-        />
-      </View>
       <View style={[styles.buttonParent, styles.thisFlexBox]}>
         <Pressable
           style={[styles.button, styles.buttonFlexBox]}
